@@ -117,6 +117,24 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Lion",
+      "species": "Cat",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "Lionness",
+      "species": "Cat",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "13"
     }
   ]
 }
